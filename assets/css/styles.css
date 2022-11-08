@@ -3,6 +3,13 @@
     padding: 0;
 }
 
+body {
+    background-image: url('https://content.demiplane.com/nexus/avatarlegends/aln-background-tile.jpg');
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+}
+
 header {
     background-color: rgb(48, 48, 48);
     display: flex;
